@@ -1,2 +1,4 @@
-# Lab1-2_simple_calculator
- Lab1-2_simple_calculator
+# 2021-2 오픈소스기초설계
+## 뭐시기
+-뭐시기뭐시기
+
