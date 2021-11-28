@@ -1,3 +1,4 @@
+LAB2 소스코드
 > * lab2-0.sh
 >   - detail
 > * lab2-1.sh
