@@ -12,8 +12,9 @@ Lab 1 [**결과물**](https://github.com/KIMS0YOUNG/2021-2-OSS)
 > Lab 2에 대한 내용
 > * 소스코드
 >   - [**src 폴더**](https://github.com/KIMS0YOUNG/2021-2-OSS/tree/main/src/Lab2)
->   - [**LAB2 폴더**](https://github.com/KIMS0YOUNG/2021-2-OSS/tree/main/LAB2%20_Ubuntu%EC%8B%A4%EC%8A%B5_ShellScripting%EA%B8%B0%EC%B4%88/src)
+>   - [**LAB2 폴더의 src 폴더**](https://github.com/KIMS0YOUNG/2021-2-OSS/tree/main/LAB2%20_Ubuntu%EC%8B%A4%EC%8A%B5_ShellScripting%EA%B8%B0%EC%B4%88/src)
 > * 보고서
->   - detail
+>   - [**doc 폴더**](doc/Lab 2. 보고서.docx)
+>   - [**LAB2 폴더의 doc 폴더**](LAB2 _Ubuntu실습_ShellScripting기초/doc/Lab 2. 보고서.docx)
 >   
 > 글자를 **굵게**하기
